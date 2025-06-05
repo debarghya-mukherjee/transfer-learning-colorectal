@@ -63,4 +63,4 @@ A boxplot is generated comparing the prediction performance of the two models (t
 
 ## 📬 Contact
 
-For questions or suggestions, please contact [Debarghya Mukherjee](mdeb@bu.edu).
+For questions, comments, or suggestions, please contact **Debarghya Mukherjee** at [mdeb@bu.edu](mailto:mdeb@bu.edu).
